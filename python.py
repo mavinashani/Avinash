@@ -5,4 +5,4 @@ print('hello world')
 print('this is new task')
 print('this a image')
 print('afternoon')
-print('new item is added'):
+print('new item is added')
